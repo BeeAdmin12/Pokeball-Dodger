@@ -1,2 +1,4 @@
 # Pokeball-Dodger
 In this Pygame, A sprite will start off in the middle of the screen that can move in every direction. The goal is to dodge pokeballs that come from every side of the screen. They will simply follow a straight line up and down the screen or left to right. So far, I've been able to get the balls to fall from the top of the screen at random positions but I'm unsure how to get that to happen on all other sides. Pokeballs that appear on the left side of the screen should go straight to the right side of the screen and disappear once they touch the edge of the screen. Same goes for Pokeballs that appear on the right and from the bottom. I have made an attempt (pokeballs.py) but now the balls just appear in the middle of the screen and move diagonally from upper left to bottom right. Suggestions and help would be appreciated.
+
+This is my first GitHUb repositoy so please let me know if I did not do something correctly.
